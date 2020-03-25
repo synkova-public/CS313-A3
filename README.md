@@ -1,5 +1,5 @@
 # CS313-Assignment 3
-Name: Aiden Synkova
+Name: Phoenix Synkova
 </p>Course: CPSC 313 2018W2
 
 *************************************************************************
